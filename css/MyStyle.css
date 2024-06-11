@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(38, 99, 195);
+}
+
+.DivCentrado {
+    margin-left: auto;
+    margin-right:auto;
+}
+
+p.Descripcion {
+    font-size: 15px;
+}
+
+a.Enlace {
+    font-size: 15px;
+    font-weight: bold;
+}
